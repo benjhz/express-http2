@@ -3,8 +3,8 @@
 ###运行方法
 
 ```
-npm install
-npm start
+$npm install
+$npm start
 ```
 
 在浏览器中访问：https://localhost:3000
